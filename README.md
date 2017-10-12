@@ -1,6 +1,6 @@
 # PrimerProyectoAvanzada2017
-###  Diego Bran 1087217
-### Walter Rui Erazo 1028916
+###  Diego Bran:       1087217
+### Walter Ruiz Erazo: 1028916
 
 # Codigo Class: 
 
