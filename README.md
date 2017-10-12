@@ -10,16 +10,27 @@
 public class Grupo
     {
         string nombre;
+        
         Usuario parlamentario;
+        
         Usuario[] asesores = new Usuario[8];
+       
         string[] bajoprestamo = new string[2];
+        
         int contador = 0;
+        
         string usuarioAcargo1;
+        
         string usuarioAcargo2;
+        
         string usuarioAcargoLote;
+        
         string primerPrestamo;
+        
         string segundoPrestamo;
+        
         public string getPrimerPrestamo()
+        
         {
             return primerPrestamo;
         }
