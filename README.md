@@ -5,6 +5,8 @@
 # Codigo Class: 
 
 ## Grupo.cs
+
+
 public class Grupo
     {
         string nombre;
