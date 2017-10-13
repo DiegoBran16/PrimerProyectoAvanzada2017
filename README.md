@@ -2,6 +2,18 @@
 ###  Diego Bran:       1087217
 ### Walter Ruiz Erazo: 1028916
 
+# Documentación Nivel Codigo:
+
+## Entradas: 
+Usuario, Grupos, Contraseñas, Cargo, Ley y reglamentos.
+## Proceso:
+Crear usuario para poder ingresar.  Crar y Modificar leyes y reglamentos. 
+Hacer que formen una cola la Primera en entrar y la Ultima en salir y poder hacer uso de las leyes y los reglamentos de la misma.
+## Salida:
+Orden de Leyes mientras van llegando y saliendo de las lista en espera.
+Usar las leys y reglamenos.
+
+
 # Codigo Class: 
 
 ## Grupo.cs
